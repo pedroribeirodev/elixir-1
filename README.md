@@ -1,6 +1,6 @@
 # SumList
 
-**TODO: Add description**
+**TODO: Soma de lista recursiva**
 
 ## Installation
 
